@@ -1,0 +1,17 @@
+{
+  "name": "Borat-Sagdiyev-Bot",
+  "version": "1.0.0",
+  "description": "Kazakhstan's best journalist. Borat likes to play Ping Pong, Sunbathe, Disco Dance and travel to capital city and watch ladies while they make toilet.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Los_Bagros",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2",
+    "stack": "^0.1.0"
+  }
+}
